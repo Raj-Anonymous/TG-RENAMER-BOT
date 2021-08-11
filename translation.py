@@ -64,7 +64,7 @@ Please short your file name and try again!"""
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
+**👨‍💻 Developer:** [Anonymous](https://t.me/MahanMVAdmin)
 
 **📮 Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
 
